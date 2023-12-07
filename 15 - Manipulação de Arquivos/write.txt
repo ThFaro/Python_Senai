@@ -1,0 +1,2 @@
+Segundo arquivo criado com Python
+Uma nova linha foi adicionada!
