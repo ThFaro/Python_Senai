@@ -1,0 +1,5 @@
+Introdução a manipulação de arquivos com Python.
+Ao abrir e ler esses arquivos, podemos realizar diversas tarefas, como:
+- Extrair informações
+- Processar dados
+- Criar novos arquivos
