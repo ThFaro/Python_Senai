@@ -1,0 +1,4 @@
+
+O curso de aperfeiçoamento profissional de Programação em Python tem por objetivo o desenvolvimento
+de competências relativas a programação utilizando codificações na linguagem Python com diferentes
+níveis de complexidade, seguindo manuais técnicos de boas práticas de programação.

@@ -1,0 +1,2 @@
+Texto do arquivo B.
+Texto do arquivo A.
